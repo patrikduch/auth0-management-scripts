@@ -1,9 +1,5 @@
 import requests
 
-#audience = 'your_audience'
-#clientId = 'your_client_id'
-#clientSecret = 'your_client_secret'
-
 domain = 'your_audience.us.auth0.com'
 audience = f'https://{domain}/api/v2/'
 clientId = 'your_client_id'
