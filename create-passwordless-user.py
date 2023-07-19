@@ -4,6 +4,7 @@ import json
 # Set your Auth0 domain and token
 domain = 'your_audience.us.auth0.com'
 token = 'your-valid-token'
+
 # Set the user's information
 user_info = {
     'phone_number': '+1555555555',
