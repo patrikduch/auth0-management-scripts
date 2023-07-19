@@ -5,7 +5,6 @@ audience = f'https://{domain}/api/v2/'
 clientId = 'your_client_id'
 clientSecret = 'your_client_secret'
 
-
 # Define the URL for the API request
 url = f"https://{domain}/oauth/token"
 
